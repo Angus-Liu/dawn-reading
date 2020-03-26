@@ -1,6 +1,6 @@
-# dawnreading
+# dawn-reading
 
-dawnreading：源于“dawn”（拂晓）和“reading”（阅读），取“晓读”之意，与“书”相关
+dawn-reading：源于“dawn”（拂晓）和“reading”（阅读），取“晓读”之意，与“书”相关
 
 因为版权的原因，很喜欢的网站“readfree”关闭了，枉费我传了那么多书上去😭
 
